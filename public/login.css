@@ -1,0 +1,55 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+div{
+    background-color:blueviolet;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px;
+}
+form{
+    max-width: 300px;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+    color: #f4f4f4;
+}
+#emailbox{
+    margin-left: 40px;
+    width: 70%;
+    padding: 4px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+#passbox{
+    margin-left: 40px;
+    width: 70%;
+    padding: 4px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+#submit{
+    margin-left: 110px;
+    margin-bottom: 16px;
+    padding: 4px 8px 4px 8px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+#submit:hover{
+    background-color: rgb(212, 208, 207);
+}
+a{
+    margin-left: 90px;
+    color: #f4f4f4;
+}
+    
+

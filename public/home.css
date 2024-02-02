@@ -1,0 +1,19 @@
+div{
+    background-color:red;
+    padding: 20px;
+    border-radius: 200px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+h2{
+    text-align: center;
+    color: #f4f4f4;
+    margin: 100px;
+}
